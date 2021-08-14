@@ -1,6 +1,6 @@
 - 👋 Hi, We are @thetechnoflash
-- 👀 we're interested in Robotics,Embedde systems etc.
-- 🌱 we're currently learning Robotic operating syatem(ROS)
+- 👀 we're interested in Robotics,Embedded systems etc.
+- 🌱 we're currently learning Robotic operating system(ROS)
 - 💞️ we're looking to collaborate
 - 📫 How to reach us @thetechnoflash.help@gmail.com or @facebook.com/ThetechnoFlash
 
